@@ -1,4 +1,4 @@
-<img width="2504" height="1416" alt="image" src="https://github.com/user-attachments/assets/4576432a-0d9e-48c7-974e-c7e68b1b9d30" />
+<img width="2204" height="1416" alt="image" src="https://github.com/user-attachments/assets/ca09a80e-624c-475f-95fa-2e31411ecaa0" />
 
 
 # Docuwiz
