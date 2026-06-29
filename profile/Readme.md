@@ -17,6 +17,15 @@ Docuwiz is a documentation hub where API teams author, preview, and publish guid
 
 ---
 
+## Repositories
+
+| Repository | Description |
+|---|---|
+| [documentation-starter-kit](https://github.com/docuwiz-io/documentation-starter-kit) | Production-ready docs templates integrated within Docuwiz to power scalable developer docs |
+| [docuwiz-mcp](https://github.com/docuwiz-io/docuwiz-mcp) | MCP server for Docuwiz — automate API documentation workflows with Claude: import OpenAPI specs, author guides, validate and publish — all from your AI assistant |
+
+---
+
 ## Core features
 
 ### Docs-as-Code authoring
